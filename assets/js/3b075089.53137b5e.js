@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkciroh_docuhub=self.webpackChunkciroh_docuhub||[]).push([["7330"],{61904(e){e.exports=JSON.parse('{"blogBasePath":"/ciroh_hub_staging/release-notes","blogTitle":"CIROH Hub release notes!","authorsListPath":"/ciroh_hub_staging/release-notes/authors"}')}}]);
